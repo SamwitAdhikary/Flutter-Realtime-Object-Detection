@@ -7,7 +7,7 @@ Mobile app made in flutter for realtime object detection. Can detect upto 80 ite
 - Any operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with latest Fultter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 - A little knowledge of Dart and Fultter
-## Screenshots
+## Demo
 
 ![App Screenshot](https://github.com/SamwitAdhikary/Flutter-Realtime-Object-Detection/blob/master/screenshot/demo.gif)
 
