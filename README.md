@@ -9,7 +9,7 @@ Mobile app made in flutter for realtime object detection. Can detect upto 80 ite
 - A little knowledge of Dart and Fultter
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SamwitAdhikary/Flutter-Realtime-Object-Detection/blob/master/screenshot/ss.m4v)
 
   
 ## Plugins
