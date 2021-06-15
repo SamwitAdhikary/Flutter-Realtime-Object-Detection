@@ -32,7 +32,7 @@ First clone this project
 Then get the packages
 
 ```bash
-    flutter get
+    flutter pub get
 ```
 Then run the app
 ```bash
