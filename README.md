@@ -27,14 +27,14 @@ Mobile app made in flutter for realtime object detection. Can detect upto 80 ite
 First clone this project
 
 ```bash 
-  git clone https://github.com/SamwitAdhikary/Flutter-Realtime-Object-Detection
+git clone https://github.com/SamwitAdhikary/Flutter-Realtime-Object-Detection
 ```
 Then get the packages
 
 ```bash
-  flutter pub get
+flutter pub get
 ```
 Then run the app
 ```bash
-  flutter run
+flutter run
 ```
